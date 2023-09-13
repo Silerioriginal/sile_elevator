@@ -3,7 +3,7 @@
 Sile = {}
 
 Sile.Elevators = {
-    PillboxElevatorNorth = { -- Nome dell'ascensore
+    Polizia = { -- Nome dell'ascensore
         [1] = {
             coords = vec3(332.37, -595.56, 43.28), -- Coordinate vec3
             heading = 70.65, -- Il quarto valore delle coordinata va qui
